@@ -12,7 +12,7 @@ Self Coded Portfolio Website made using React JS and Chakra UI.
 
 ## Live Demo 
 
-- Click [here] to view the live demo.
+- Click  [here] to view the live demo.
 
 ## Features 📋
 
