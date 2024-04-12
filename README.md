@@ -5,14 +5,14 @@ Self Coded Portfolio Website made using React JS and Chakra UI.
 
 <p align="center"> 
   <kbd>
-    <a href="https://rahulkp15.onrender.com/" target="_blank"><img src="./images/intro.jpg" >
+    <!-- <a href="https://rahulkp15.onrender.com/" target="_blank"><img src="./images/intro.jpg" > -->
   </a>
   </kbd>
 </p>
 
 ## Live Demo 
 
-- Click [here](https://rahulkp15.onrender.com/) to view the live demo.
+- Click [here] to view the live demo.
 
 ## Features 📋
 
@@ -43,7 +43,7 @@ Self Coded Portfolio Website made using React JS and Chakra UI.
 
 <p align="center"> 
   <kbd>
-    <a href="https://rahulkp15.onrender.com/" target="_blank"><img src="./images/laptopView.jpg">
+    <!-- <a href="https://rahulkp15.onrender.com/" target="_blank"><img src="./images/laptopView.jpg"> -->
   </a>
   </kbd>
 </p>
@@ -52,8 +52,8 @@ Self Coded Portfolio Website made using React JS and Chakra UI.
 
 <div align="center"> 
   <kbd>
- <img src="./images/mobile-view-1.jpg" width="400" height="400">
- <img src="./images/mobile-view-2.jpg" width="400" height="400">
+ <!-- <img src="./images/mobile-view-1.jpg" width="400" height="400">
+ <img src="./images/mobile-view-2.jpg" width="400" height="400"> -->
   </kbd>
 </div>
 
@@ -62,7 +62,7 @@ Self Coded Portfolio Website made using React JS and Chakra UI.
 **1. Clone this repo by running the following command :-**
 
 ```bash
- git clone https://github.com/Rahul1582/portfolio-rahulkp.git
+ 
 ```
 
 **2. Now Install all the required packages by running the following commands :-**
