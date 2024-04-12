@@ -187,7 +187,7 @@ export function SideNavResponsive(props) {
                   alignItems="center"
                 >
                   <GitHubButton
-                    href="https://github.com/Rahul1582/portfolio-rahulkp"
+                    href="https://github.com/Rajat0057/My_Protfolio"
                     data-color-scheme="no-preference: light; light: light; dark: dark_dimmed;"
                     data-icon="octicon-star"
                     data-size="large"
@@ -197,7 +197,7 @@ export function SideNavResponsive(props) {
                   </GitHubButton>
 
                   <GitHubButton
-                    href="https://github.com/Rahul1582/portfolio-rahulkp/fork"
+                    href="https://github.com/Rajat0057/My_Protfolio/fork"
                     data-color-scheme="no-preference: light; light: light; dark: dark_dimmed;"
                     data-icon="octicon-repo-forked"
                     data-size="large"
