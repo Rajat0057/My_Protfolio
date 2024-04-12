@@ -160,7 +160,7 @@ export default function About() {
                   <AboutMeInfo
                     boxShadow={cardShadow}
                     title="Languages"
-                    value="English, Hindi, Odia"
+                    value="English, Hindi
                   />
                 </SimpleGrid>
               </Box>
